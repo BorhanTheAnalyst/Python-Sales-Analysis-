@@ -42,3 +42,22 @@ The dataset contains **sales transactions**, including details such as **custome
 Let’s collaborate!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mdborhanuddin/)  
 [📂 Portfolio](https://borhantheanalyst.github.io/) | [📧 Email](mailto:borhan.chat@gmail.com)
+
+
+---
+
+## Results
+### Key Visualizations
+1. **Customer Demographics**  
+   ![Age-Gender Distribution](![image](https://github.com/user-attachments/assets/554a36ea-b6ec-41ec-b60b-321135962b29))  
+   *Women aged 26–35 drive the highest sales.*
+
+2. **Product Category Performance**  
+   ![Product Sales](![image](https://github.com/user-attachments/assets/3b60ff7e-42ed-414e-96b3-5f5f4a67d39e))  
+   *Food, Clothing, and Electronics dominate sales.*
+
+3. **Regional Sales Trends**  
+   ![State-wise Sales](![image](https://github.com/user-attachments/assets/71d66ac2-a29e-424c-a3fd-874b221d2455))  
+   *Uttar Pradesh leads in revenue.*
+
+---
