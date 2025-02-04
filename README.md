@@ -36,11 +36,6 @@ The dataset contains **sales transactions**, including details such as **custome
 - **Data Visualization**: matplotlib, seaborn  
 - **Jupyter Notebook**  
 
-## ▶ How to Run the Code  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/BorhanTheAnalyst/Python-Sales-Analysis-.git
-
 ---
 
 ## Connect
