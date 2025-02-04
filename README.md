@@ -28,7 +28,7 @@ The dataset contains **sales transactions**, including details such as **custome
 
 ### **📊 Conclusion**  
 📌 **Target Audience for Businesses:**  
-- **Married women (26-35 years) from Uttar Pradesh, Maharashtra, and Karnataka** working in **IT, Healthcare, and Aviation** are the most likely to purchase.  
+- **Married women (26-35 years) from Uttar Pradesh, Maharashtra, and Karnataka** working in **IT, Healthcare, and Aviation** are the most likely to buy products from Food, Clothing, and Electronics category.  
 - Businesses can use this insight to **optimize marketing strategies and product recommendations**.  
 
 ## 🛠 Technologies Used  
@@ -40,3 +40,10 @@ The dataset contains **sales transactions**, including details such as **custome
 1. Clone this repository:  
    ```bash
    git clone https://github.com/BorhanTheAnalyst/Python-Sales-Analysis-.git
+
+---
+
+## Connect
+Let’s collaborate!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mdborhanuddin/)  
+[📂 Portfolio](https://borhantheanalyst.github.io/) | [📧 Email](mailto:borhan.chat@gmail.com)
